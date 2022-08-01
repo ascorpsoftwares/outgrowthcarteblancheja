@@ -1,0 +1,28 @@
+rgb(42, 65, 232)
+
+#2a41e8;
+
+
+new
+#2ae841;
+
+Green 1: #47bb67 (dashboard-settings.html)
+
+Green 2: #009900
+
+
+blue.css 261 L#
+.category-box:hover {
+    box-shadow: 1px 0px 5px 6px rgb(48 54 50 / 20%);
+}
+
+#1A4D2E Green
+Color Pallate:
+https://colorhunt.co/palette/0000001a4d2eff9f29faf3e3
+
+From Logo:
+#379501
+
+
+jobs-list-layout-1-OpenStreetMap.html
+
